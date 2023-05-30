@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Sekhar N</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithsekharn&label=Profile%20views&color=0e75b6&style=flat" alt="rohithsekharn" /> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **rohithsekharnaduvath@gmail.com**
