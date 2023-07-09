@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+![MasterHead](https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif)
 <h1 align="center">Hi 👋, I'm Rohith Sekhar N</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
