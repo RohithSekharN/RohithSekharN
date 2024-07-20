@@ -1,10 +1,8 @@
 ![MasterHead](https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif)
 <h1 align="center">Hi 👋, I'm Rohith Sekhar N</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **rohithsekharnaduvath@gmail.com**
+- 🌱 I’m currently learning **MER(A)N Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
