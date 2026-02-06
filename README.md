@@ -12,9 +12,9 @@
   
   <!-- Profile Views & Social Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=rohithsekharn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-    <a href="https://github.com/rohithsekharn?tab=followers">
-      <img src="https://img.shields.io/github/followers/rohithsekharn?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=RohithSekharN&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+    <a href="https://github.com/RohithSekharN?tab=followers">
+      <img src="https://img.shields.io/github/followers/RohithSekharN?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers"/>
     </a>
   </p>
 
@@ -60,7 +60,6 @@ const rohith = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
@@ -69,7 +68,6 @@ const rohith = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -78,15 +76,15 @@ const rohith = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithsekharn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohithSekharN&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsekharn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohithSekharN&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsekharn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithSekharN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -94,7 +92,7 @@ const rohith = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohithsekharn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RohithSekharN&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -102,7 +100,7 @@ const rohith = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithsekharn&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithSekharN&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -110,7 +108,7 @@ const rohith = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohithsekharn/rohithsekharn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/RohithSekharN/RohithSekharN/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
