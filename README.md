@@ -77,16 +77,17 @@ const rohith = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohithsekharn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsekharn&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-  
-  <br/>
-  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsekharn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohithsekharn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsekharn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsekharn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
