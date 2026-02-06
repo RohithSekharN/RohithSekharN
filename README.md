@@ -51,8 +51,9 @@ const Rohith = {
       js: ["Node", "Express", "NestJS"],
     },
     databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    misc: ["Docker", "AWS", "Git"]
+    misc: ["Docker", "AWS", "Git"],
   },
   currentFocus: "Building Highly Scalable Systems",
-  funFact: "I debug better with coffee ☕"
+  funFact: "I debug better with coffee ☕",
 };
+```
