@@ -1,5 +1,4 @@
-# 🚀 Rohith Sekhar Naduvath
-### *Software Architect & Full-Stack Engineer*
+### *Full-Stack Engineer*
 
 Building high-performance, multi-tenant SaaS solutions that bridge the gap between **technical rigor** and **aesthetic precision**. Specialized in white-label architectures, data isolation, and premium, AI-integrated user experiences.
 
