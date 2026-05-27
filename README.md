@@ -2,11 +2,9 @@
 
 <br/>
 
-<!-- Animated name -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=72&duration=0&pause=0&color=F5F0E8&center=true&vCenter=true&repeat=false&width=560&height=110&lines=Rohith+Sekhar+N"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=72&duration=0&pause=0&color=0D0D0D&center=true&vCenter=true&repeat=false&width=560&height=110&lines=Rohith+Sekhar+N"/>
-</picture>
+<!-- Animated name — GitHub dark/light mode via URL fragment -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=72&duration=0&pause=0&color=F5F0E8&center=true&vCenter=true&repeat=false&width=560&height=110&lines=Rohith+Sekhar+N#gh-dark-mode-only" alt="Rohith Sekhar N" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=72&duration=0&pause=0&color=0D0D0D&center=true&vCenter=true&repeat=false&width=560&height=110&lines=Rohith+Sekhar+N#gh-light-mode-only" alt="Rohith Sekhar N" />
 
 <!-- Animated subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=800&color=888888&center=true&vCenter=true&repeat=true&width=600&height=36&lines=Software+Architect;Full-Stack+Engineer;SaaS+Systems+Designer;Multi-Tenant+Platform+Builder;AI-Native+Product+Craftsman" alt="Typing SVG" />
@@ -227,8 +225,6 @@ Complexity is introduced only when it provides clear, measurable value to the sy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-sekhar-n/)
 &ensp;
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithsekharnaduvath@gmail.com)
-&ensp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-SITE.com)
 
 </div>
 
