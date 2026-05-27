@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:A855F7,100:06B6D4&height=3" width="100%" />
 
 <br/>
 
@@ -28,7 +28,7 @@ Building high-performance, multi-tenant SaaS solutions that bridge the gap betwe
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:A855F7,100:06B6D4&height=3" width="100%" />
 
 <br/>
 
@@ -79,7 +79,7 @@ Building high-performance, multi-tenant SaaS solutions that bridge the gap betwe
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:A855F7,100:06B6D4&height=3" width="100%" />
 
 <br/>
 
@@ -122,7 +122,7 @@ Building high-performance, multi-tenant SaaS solutions that bridge the gap betwe
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:A855F7,100:06B6D4&height=3" width="100%" />
 
 <br/>
 
@@ -143,7 +143,7 @@ Building high-performance, multi-tenant SaaS solutions that bridge the gap betwe
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:A855F7,100:06B6D4&height=3" width="100%" />
 
 <br/>
 
@@ -161,7 +161,7 @@ Building high-performance, multi-tenant SaaS solutions that bridge the gap betwe
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:A855F7,100:06B6D4&height=3" width="100%" />
 
 <br/>
 
