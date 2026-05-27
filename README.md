@@ -24,20 +24,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RohithSekharN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF&ring_color=6E40C9" width="420" />
-
-```typescript
-const rohith = {
-  role        : "Full-Stack Engineer",
-  focus       : ["SaaS Architecture", "Multi-tenant Systems",
-                 "AI-integrated UX", "White-label Platforms"],
-  philosophy  : "Where technical rigor meets aesthetic precision",
-  currentWork : "Scalable, design-centric SaaS products",
-  email       : "rohithsekharnaduvath@gmail.com",
-};
-```
-
-<br clear="right"/>
+Building high-performance, multi-tenant SaaS solutions that bridge the gap between **technical rigor** and **aesthetic precision**. Specialized in white-label architectures, data isolation, and premium, AI-integrated user experiences.
 
 <br/>
 
