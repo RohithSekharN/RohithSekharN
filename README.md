@@ -1,59 +1,42 @@
-<div align="center">
+# README
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Rohith%20Sekhar%20N&fontSize=50&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20Next.js%20Specialist&descAlignY=62&descSize=20&stroke=2dd4bf&strokeWidth=1"/>
+## 🚀 About Me
+I am a **Software Architect and Full-Stack Engineer** specializing in high-performance, multi-tenant SaaS solutions. My work focuses on building scalable "white-label" architectures that prioritize data isolation, premium user experiences, and seamless AI integration.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+scalable+web+experiences;Crafting+pixel-perfect+UIs;Optimizing+backend+architecture;Exploring+System+Design" alt="Typing SVG" />
-</a>
+I thrive at the intersection of **technical rigor** and **aesthetic precision**, building systems that are as robust under the hood as they are visually stunning on the surface.
 
-<p>
-  <a href="https://github.com/RohithSekharN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-  </a>
-  <a href="https://linkedin.com/in/rohith-sekhar-n" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rohithsekharnaduvath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/RohithSekharN1" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+---
 
-</div>
+## 🛠 Tech Stack
 
-<br />
+* **Frameworks:** Next.js (App Router), React
+* **Languages:** TypeScript, Node.js
+* **Styling:** Tailwind CSS v4, OKLCH Color Spaces, Premium Dark Mode UI
+* **Database & ORM:** Prisma, PostgreSQL (Neon), MongoDB
+* **Architecture:** Multi-tenancy, RBAC (Role-Based Access Control), Dynamic Subdomains
+* **DevOps:** Git-based collaborative workflows, Server Migrations
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" /> 
-  The Developer Profile
-</h3>
+---
 
-<div align="center">
-<table align="center" style="border: none;">
-<tr>
-<td align="left">
-<img align="right" width="250" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+## 🏗 Featured Projects
 
-```typescript
-// 📂 src/components/Rohith.tsx
+### **Parkora Falcon**
+A specialized **Maritime Management Platform** focused on vessel performance and operational reporting, built on a robust multi-tenant architecture.
+* **Dynamic Subdomains:** Engineered dynamic subdomain routing to handle isolated vendor and tenant onboarding seamlessly.
+* **Operational Modules:** Developed comprehensive voyage performance data services, arrival report modules, and automated operational guides.
+* **Security:** Implemented complex RBAC (Role-Based Access Control) systems for Super Admins, Admins, and Operations staff.
 
-const Rohith = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  askMeAbout: ["Web Dev", "Tech", "Soccer", "Photography"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Redux", "Tailwind"],
-    },
-    backEnd: {
-      js: ["Node", "Express", "NestJS"],
-    },
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    misc: ["Docker", "AWS", "Git"],
-  },
-  currentFocus: "Building Highly Scalable Systems",
-  funFact: "I debug better with coffee ☕",
-};
-```
+## 🧬 Engineering Principles
+
+* **Security First:** Implementing global session invalidation and strict server-side validation.
+* **Design-Centric Development:** Leveraging modern color theory (OKLCH) and sophisticated dark modes to create a "Premium" software feel.
+* **Scalability:** Designing database schemas and routing structures that support infinite horizontal growth for white-label vendors.
+* **AI Integration:** Moving beyond static forms into intelligent, conversational interfaces.
+
+---
+
+## 📫 Let's Connect
+I am always open to discussing **SaaS architecture**, **UI/UX innovation**, or the future of **AI-integrated applications**.
+
+* **Role:** Software Architect / Full Stack Lead
+* **Focus:** Next.js | TypeScript | SaaS Architecture | Premium UI
